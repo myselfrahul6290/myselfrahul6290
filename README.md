@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi there , I am Rahul Shaw 👋 <h1>
+<h4 align="center"> Hi there , I am Rahul Shaw 👋 <h4>
 
 - 💬 Ask me about <strong> python, c++,javascript </strong>
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/rahulshaw1002/" target="blank"> Rahul shaw</a>
